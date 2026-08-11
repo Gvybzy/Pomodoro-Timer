@@ -16,7 +16,9 @@ A minimalist, dark-themed Pomodoro timer built with Python and CustomTkinter. Tr
 
 ## Screenshots
 
-*(Add screenshots here)*
+![Main Menu](screenshots/main_menu.png)
+![Timer Running](screenshots/timer_running.png)
+![Session History](screenshots/history.png)
 
 ## Installation
 
