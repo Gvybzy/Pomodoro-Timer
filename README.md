@@ -24,7 +24,7 @@ A minimalist, dark-themed Pomodoro timer built with Python and CustomTkinter. Tr
 
 ### Option 1: Run the EXE (No Python needed)
 
-1. Download `Pomodoro.exe` from the [Releases](https://github.com/yourusername/pomodoro-timer/releases) page
+1. Download `Pomodoro.exe` from the [Releases](https://github.com/Gvybzy/pomodoro-timer/releases) page
 2. Double-click to run
 3. That's it!
 
